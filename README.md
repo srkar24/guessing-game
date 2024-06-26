@@ -7,3 +7,9 @@ The machine then hints whether the guess is hot or cold, in this example, "cold.
 The player then makes another guess based on the hint, for example, 9.
 The machine gives another hint, in this example, "hot."
 This process continues until the player successfully guesses the secret number. A demo video has been attached to showcase the game.
+
+Hardware used:
+Zybo Z7-10
+
+Software used:
+Xilinx Vivado
